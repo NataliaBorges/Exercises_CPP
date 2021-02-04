@@ -7,7 +7,7 @@ using namespace std;
 
 int main(void){
     int I, A[10];
-    cout << setiosflags(ios::right); // alinhamento dos números inteiros da direita para a esquerda
+    cout << setiosflags(ios::right); // alinhamento dos nÃºmeros inteiros da direita para a esquerda
 
     //Entrada de dados na matriz A
 
