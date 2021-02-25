@@ -5,7 +5,7 @@ using namespace std;
 
 int VALOR = 3; // variavel global
 
-//cada escopo possui sua variavel VALOR com validade dentro so seu bloco de atuação
+//cada escopo possui sua variavel VALOR com validade dentro so seu bloco de atuaÃ§Ã£o
 
 namespace escopo1{
     int VALOR = 2; //variavel global para o escopo 1
