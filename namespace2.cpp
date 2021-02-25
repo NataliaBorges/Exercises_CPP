@@ -16,7 +16,7 @@ namespace diferenca{
 }
 
 int main(void){
-    using namespace produto;//A variavel RESULTADO é apenas da área namespace produto
+    using namespace produto;//A variavel RESULTADO Ã© apenas da Ã¡rea namespace produto
 
     RESULTADO = 5 + 3;
     std::cout << RESULTADO << std::endl;
