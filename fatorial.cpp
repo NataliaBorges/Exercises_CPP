@@ -5,8 +5,8 @@
 #include <cctype>
 using namespace std;
 
-// protótipos de função antes do main (Não muito adequado )
-// Toda sub-rotina que antecede a palavra void é um procedimento
+// protÃ³tipos de funÃ§Ã£o antes do main (NÃ£o muito adequado )
+// Toda sub-rotina que antecede a palavra void Ã© um procedimento
 
 void fatorial(int N){
     int I;
