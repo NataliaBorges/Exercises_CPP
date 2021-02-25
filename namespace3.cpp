@@ -14,13 +14,13 @@ namespace produto{
 namespace diferenca{
     double RESULTADO;
 }
-/*quatro áreas de namespace, do qual cada segmento pode ter variaveis locais,
+/*quatro Ã¡reas de namespace, do qual cada segmento pode ter variaveis locais,
 globais, de constantes e outros elementos de comportamento de um programa */
 
 int main(void){
 
     soma::RESULTADO = 5 + 3; //Variavel RESULTADO associada ao escopo de soma
-    std::cout << soma::RESULTADO << std::endl; //como não estou usando o using namespace std, é necessário colocar o std
+    std::cout << soma::RESULTADO << std::endl; //como nÃ£o estou usando o using namespace std, Ã© necessÃ¡rio colocar o std
 
     quociente::RESULTADO = 5.0/3.0;
     std::cout << quociente::RESULTADO << std::endl;
