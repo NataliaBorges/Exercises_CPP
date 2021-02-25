@@ -27,7 +27,7 @@ int main(void){
             B[I - 1] = A[I - 1] + 5;
     cout << endl;
 
-    //Apresentação das matrizes
+    //ApresentaÃ§Ã£o das matrizes
 
     for (I = 1; I <= 5; I++){
             cout << "A[" << I << "] = " << setw(3) << A[I - 1];
