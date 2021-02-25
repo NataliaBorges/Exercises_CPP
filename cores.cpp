@@ -1,9 +1,9 @@
 //CO5EX11.CPP
 //Definicao de cores
 
-#include <iostream> // Bliblioteca padr„o da linguagem
+#include <iostream> // Bliblioteca padr√£o da linguagem
 #include <stdlib.h>
-#include <windows.h> //Arquivo de cabeÁalho. Permite acesso da linguagem C++ a API do Windowa
+#include <windows.h> //Arquivo de cabe√ßalho. Permite acesso da linguagem C++ a API do Windowa
 using namespace std;
 
 #define black       0 // Preto
